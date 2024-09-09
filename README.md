@@ -9,6 +9,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=anwar_ka&icon=6&color=10)](https://visitcount.itsvg.in)
 
