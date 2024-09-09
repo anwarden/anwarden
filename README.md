@@ -1,9 +1,9 @@
-# 💫 À propos de moi
+# 💫 About me:
 - 🎓  Pursuing an engineering degree @ École des ponts et chaussées, Institut Polytechnique, France.
 - 📊 Specializing in mathematical and computer science engineering
 - 🎮 Experienced in Unity3D and Godot game engines
 
-### Compétences :
+### Competencies :
 - 💻 Python, C++, C#
 - 🛠️ Unity3D, Godot, DSA
 - 🧮 Algorithms, linear algebra
