@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnwarKardid&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
 ---
