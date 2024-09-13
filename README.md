@@ -1,3 +1,5 @@
+
+
 # 💫 About me:
 - 🎓  Pursuing an engineering degree @ École des ponts et chaussées, Institut Polytechnique, France.
 - 📊 Specializing in mathematical and computer science engineering
@@ -23,9 +25,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnwarKardid&layout=compact)
 
-### ✍️ Random Dev Quote
+
+
+### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=AnwarKardid&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<!-- <img width="340" height="155" align="center" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=AnwaKardid&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anwar_ka&icon=6&color=10)](https://visitcount.itsvg.in)
