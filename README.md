@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="banner" width="1200"/>
+<img src="./profile_banner.png" alt="banner" width="1200"/>
 
 # 💫 About me:
 - 🎓  Pursuing an engineering degree @ École des ponts et chaussées, Institut Polytechnique, France.
