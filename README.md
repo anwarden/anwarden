@@ -55,8 +55,8 @@ Applied mathematician turned product engineer. I work at the intersection of **q
 
 | Project | What it does | Impact | Stack |
 | :--- | :--- | :--- | :--- |
-| **[Black–Scholes Pricing Platform](INSERT_REPO_URL)** | Closed-form European option pricing with full Greeks, validated against Monte Carlo; implied-vol surfaces across strike/maturity grids | **99%** test coverage · skew & term-structure analysis | `Python` `NumPy` `SciPy` `Plotly` `pytest` |
-| **[Credit Card Fraud Detection](INSERT_REPO_URL)** | Statistical learning on a heavily imbalanced transaction set, with a live precision–recall trade-off dashboard | **AUC-ROC 0.98** on **284k** transactions | `XGBoost` `SMOTE` `scikit-learn` `Streamlit` |
+| **[Black–Scholes Pricing Platform](https://github.com/anwarden/European-Option-Pricer)** | Closed-form European option pricing with full Greeks, validated against Monte Carlo; implied-vol surfaces across strike/maturity grids | **99%** test coverage · skew & term-structure analysis | `Python` `NumPy` `SciPy` `Plotly` `pytest` |
+| **[Credit Card Fraud Detection](https://github.com/anwarden/Bank-Fraud-detection-platform)** | Statistical learning on a heavily imbalanced transaction set, with a live precision–recall trade-off dashboard | **AUC-ROC 0.98** on **284k** transactions | `XGBoost` `SMOTE` `scikit-learn` `Streamlit` |
 | **[Hackathon Judge Infrastructure](INSERT_REPO_URL)** | Evaluation & scoring backend for a national-level OR hackathon at Califrais | **100%** uptime · **27k+** submissions · **150+** competitors | `Linux` `SQL` `Python` |
 
 ---
